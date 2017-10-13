@@ -1,7 +1,7 @@
-﻿我的主页：[http://www.yanzhenjie.com](http://www.yanzhenjie.com)  
-欢迎关注我的微博：[http://weibo.com/yanzhenjieit](http://weibo.com/yanzhenjieit)  
+﻿我的主页：[http://www.zhugongzhao.com](http://www.zhugongzhao.com)
+欢迎关注我的微博：[http://weibo.com/zhugongzhao](http://weibo.com/zhugongzhao)
 
-QQ技术交流群：[547839514](https://jq.qq.com/?_wv=1027&k=4CHkvzr)  
+QQ技术交流群：[224716157](https://jq.qq.com/?_wv=1027&k=4CHkvzr)
 
 ----
 
